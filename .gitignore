@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#adding config to not upload API key
+config.py
+
 # C extensions
 *.so
 
